@@ -1,0 +1,6 @@
+The RGOS Quantum plugin is a  network plugin to manage Ruijie
+Switch and OVS features using a local agent running on each hypervisor.
+
+For details on how to configure and use the plugin, see:
+
+https://github.com/ruijie/quantum/wiki/Home-(-Quick-start-with-rgos-quantum-plugin-)
